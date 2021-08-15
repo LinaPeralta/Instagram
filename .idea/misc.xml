@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/bg2.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/button.xml" value="0.15416666666666667" />
+        <entry key="app/src/main/res/drawable/button_2.xml" value="0.15416666666666667" />
         <entry key="app/src/main/res/drawable/gradient.xml" value="0.20592105263157895" />
         <entry key="app/src/main/res/drawable/textfield1.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.26094677413995254" />
       </map>
     </option>
   </component>
